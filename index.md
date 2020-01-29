@@ -2,11 +2,12 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").
                       # Be sure to update the Carpentry type in _config.yml as well.
-venue: "UF Emerging Pathogens Institute"
-address: "UF EPI, room 150, Gainesville, FL"
+venue: "University of Florida Informatics Institute"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "432 Newell Dr, Gainesville, FL 32603"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"
 language: "en"
-latlng: "29.637414, -82.351971"
+latitude: "29.648292"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-82.344092"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Apr 6-7, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2020-04-6
@@ -46,7 +47,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   and registration is required. A fee of $46.00 will
   be charged and lunch will be provided both days.
   Please plan on attending the entire time for both days.
-  You can register in UF's conference system here: <a href="http://reg.conferences.dce.ufl.edu/SSP/1400071955">Intro to Genomics Registration</a>
+  You can register in UF's conference system here: <a href="http://reg.conferences.dce.ufl.edu/SSP/1400075793">Intro to Genomics Registration</a>
 </p>
 
 
