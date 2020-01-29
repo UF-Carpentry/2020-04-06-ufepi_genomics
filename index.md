@@ -7,10 +7,10 @@ address: "UF EPI, room 150, Gainesville, FL"
 country: "us"
 language: "en"
 latlng: "29.637414, -82.351971"
-humandate: "Apr 11-12, 2019"
+humandate: "Apr 6-7, 2019"
 humantime: "9:00 am - 4:30 pm"
-startdate: 2019-04-11
-enddate: 2019-04-12
+startdate: 2020-04-6
+enddate: 2020-04-7
 instructor: ["Carla Mavian", "Taylor Paisie", "Massimiliano Tagliamonte", "Oleksandr Moskalenko", "Nitya Singh"]
 helper: ["Geraldine Klarenberg", "Stefano Nembrini", "Henry Senyondo", "Miao Sun", "Caroline Storer", "Ben Toh", "Dan Stribiling"]
 email: ["cmavian@ufl.edu", "tpaisie@ufl.edu", "mstagliamonte@ufl.edu", "om@rc.ufl.edu", "nitya11@epi.ufl.edu"]
