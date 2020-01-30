@@ -8,14 +8,14 @@ country: "us"
 language: "en"
 latitude: "29.648292"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-82.344092"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Apr 6-7, 2019"
+humandate: "Apr 6-7, 2020"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2020-04-6
 enddate: 2020-04-7
 instructor: ["Carla Mavian", "Taylor Paisie", "Massimiliano Tagliamonte", "Oleksandr Moskalenko", "Nitya Singh"]
-helper: ["Geraldine Klarenberg", "Stefano Nembrini", "Henry Senyondo", "Miao Sun", "Caroline Storer", "Ben Toh", "Dan Stribiling"]
+helper: [""]
 email: ["cmavian@ufl.edu", "tpaisie@ufl.edu", "mstagliamonte@ufl.edu", "om@rc.ufl.edu", "nitya11@epi.ufl.edu"]
-collaborative_notes: "https://pad.carpentries.org/2019-04-11-ufepi-genomics"
+collaborative_notes: "https://pad.carpentries.org/2020-04-06-ufepi-genomics"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
